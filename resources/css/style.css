@@ -1,11 +1,35 @@
 body{
+  font-family: helvetica;
   text-align: center;
+  font-size: 14px;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.nav {
+  font-size: 18px;
+  color: #FFFFFF;
 }
 
 .Menu{
   background-image: url('../images/the-flatiron-building.png');
+  color: #FFFFFF;
 }
 
 .About h2{
   background-image: url('../images/the-flatiron-building.png');
+  font-size: 23px;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+h3 {
+  font-size:23px;
+}
+
+h2{
+  font-size: 32px;
 }
