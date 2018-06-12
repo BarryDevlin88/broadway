@@ -33,3 +33,15 @@ h3 {
 h2{
   font-size: 32px;
 }
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: #FFFFFF;
+  background-color: #696969;
+}
+
+.footnav {
+  font-size: 14px;
+  color: #FFFFFF;
+}
